@@ -1,0 +1,7 @@
+pytest==8.
+
+
+pytest-cov==5.
+
+
+pytest-html==4.
